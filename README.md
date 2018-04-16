@@ -1,37 +1,28 @@
-## Welcome to GitHub Pages
+# Electronics Skills 2: Double LED
+In this assignment you breadboard two LEDs in series and in parallel and explore how resistor values affect the flow of current. 
 
-You can use the [editor on GitHub](https://github.com/mariopineda/electronics-skills-2-double-led/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Instructions
+Make sure your breadboard is set up the following way before building the circuit.
+![](images/setup.png)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Circuit 2.1: Two LEDs in parallel
+Build the following circuit of two LEDs in parallel. Show the circuit to your teacher for marking.  
 
-### Markdown
+In a parallel circuit current can travel along multiple paths. In this circuit the electric current is flowing through two loops, one for each LED. In other words, there are two paths for the electricity to take through the circuit.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![](images/circuit2.1.png)
 
-```markdown
-Syntax highlighted code block
+## Circuit 2.2: Two LEDs in series
+Build the following circuit of two LEDs in series. Show the circuit to your teacher for marking.   
 
-# Header 1
-## Header 2
-### Header 3
+![](images/circuit2.2.png)
 
-- Bulleted
-- List
+In a serial circuit there is a single path for the electrical current. In this circuit the electric current is flowing through one LED at a time. In other words, there is a single paths for the electricity to take through the circuit.
 
-1. Numbered
-2. List
+# Circuit 2.3: Exploring the effect of different resistor values 
+In this circuit you will use switches to explore what happens to the brightness of an LED with different values of resistors. Ask your teacher for the extra components for this circuit.
 
-**Bold** and _Italic_ and `Code` text
+You can use this resistor color code calculator to figure out the value of a resistor: http://resistor.cherryjourney.pt/ 
 
-[Link](url) and ![Image](src)
-```
+Show the circuit to your teacher for marking.  
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mariopineda/electronics-skills-2-double-led/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
