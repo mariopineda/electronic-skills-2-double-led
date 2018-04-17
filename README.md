@@ -25,4 +25,4 @@ In this circuit you will use switches to explore what happens to the brightness 
 You can use this resistor color code calculator to figure out the value of a resistor: http://resistor.cherryjourney.pt/ 
 
 Show the circuit to your teacher for marking.  
-
+![](images/circuit2.3.png)
